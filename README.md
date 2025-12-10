@@ -37,7 +37,7 @@ El director tiene que creat cursos, asignar maestros a éstos, subir archivos
 para los cursos y aceptar o rechazar gente (CustomUser tiene un campo llamado is_accepted).
 
 > --------------------------English
-# Institut Hegel
+# Jaén hospital
 ## A practice project — a platform to record various vital signs of a patient
 
 This website can support doctors with the record of different vital signs of a patient and this is going
